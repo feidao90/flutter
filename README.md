@@ -1,5 +1,4 @@
-# flutter
-flutter for ios
+# flutter 安装
 
 
 1、安装Flutter SDK
